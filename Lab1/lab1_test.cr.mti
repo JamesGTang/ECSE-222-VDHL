@@ -1,0 +1,53 @@
+P:/VDHL/Lab1/tb_led_decoder.vhd {2 {vcom -work work -2002 -explicit -stats=none P:/VDHL/Lab1/tb_led_decoder.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_led_decoder
+-- Compiling architecture behaviour of tb_led_decoder
+** Warning: [4] P:/VDHL/Lab1/tb_led_decoder.vhd(42): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] P:/VDHL/Lab1/tb_led_decoder.vhd(46): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] P:/VDHL/Lab1/tb_led_decoder.vhd(50): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] P:/VDHL/Lab1/tb_led_decoder.vhd(54): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] P:/VDHL/Lab1/tb_led_decoder.vhd(58): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] P:/VDHL/Lab1/tb_led_decoder.vhd(62): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] P:/VDHL/Lab1/tb_led_decoder.vhd(66): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] P:/VDHL/Lab1/tb_led_decoder.vhd(70): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] P:/VDHL/Lab1/tb_led_decoder.vhd(74): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] P:/VDHL/Lab1/tb_led_decoder.vhd(78): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} P:/VDHL/Lab1/seven_seg_decoder.vhd {1 {vcom -work work -2002 -explicit -stats=none P:/VDHL/Lab1/seven_seg_decoder.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity seven_segment_decoder
+-- Compiling architecture behavior of seven_segment_decoder
+
+} {} {}} P:/VDHL/Lab1/tb_seven_seg_decoder.vhd {2 {vcom -work work -2002 -explicit -stats=none P:/VDHL/Lab1/tb_seven_seg_decoder.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_seven_segment_decoder
+-- Compiling architecture behavior of tb_seven_segment_decoder
+** Warning: [4] P:/VDHL/Lab1/tb_seven_seg_decoder.vhd(45): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] P:/VDHL/Lab1/tb_seven_seg_decoder.vhd(49): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] P:/VDHL/Lab1/tb_seven_seg_decoder.vhd(53): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] P:/VDHL/Lab1/tb_seven_seg_decoder.vhd(57): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] P:/VDHL/Lab1/tb_seven_seg_decoder.vhd(61): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] P:/VDHL/Lab1/tb_seven_seg_decoder.vhd(65): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] P:/VDHL/Lab1/tb_seven_seg_decoder.vhd(69): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] P:/VDHL/Lab1/tb_seven_seg_decoder.vhd(73): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] P:/VDHL/Lab1/tb_seven_seg_decoder.vhd(77): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] P:/VDHL/Lab1/tb_seven_seg_decoder.vhd(81): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} P:/VDHL/Lab1/led_decoder.vhd {1 {vcom -work work -2002 -explicit -stats=none P:/VDHL/Lab1/led_decoder.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity led_decoder
+-- Compiling architecture behaviour of led_decoder
+
+} {} {}}

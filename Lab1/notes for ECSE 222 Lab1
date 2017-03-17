@@ -1,0 +1,11 @@
+notes for ECSE 222 Lab1
+
+What are the advantages of using an FPGA instead of a processor
+1. FPGA doesn’t have a fixed hardware structure, on the contrary it is programmable according to user applications,processors have a fixed hardware structure. It means that all the transistors memory, peripheral structures and the connections are constant
+3. Because FPGA is not fixed, it can have process done in parallel
+4. FPGA is better when running large applicaions that require more performance such as intensive data processing. 
+
+What does a VHDL code listing describe, and how is it different than what a Java code listing describes?
+VHDL is used to describe (configure) the structure and behavior of electronic circuits, and most importantly logic circuits. It explicitly include the notion of time. Programming language like java tells existing hardware what to do, without changing the hardaware (provide a high level description of software programs). 
+
+Why can it take a long time for the VHDL compiler to complete its processing of your VHDL hardware specifications?
