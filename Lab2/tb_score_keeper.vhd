@@ -109,14 +109,7 @@ begin
 		-- This will stop the simulation
 		assert false report "Score keeper test success" severity failure;
 	end process;
-end behaviour;		
-
-
-
-
-
-
-
+end behaviour;
 
 
 
