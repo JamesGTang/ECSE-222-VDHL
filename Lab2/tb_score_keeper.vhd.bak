@@ -45,7 +45,7 @@ begin
 		clk => clk_in,
 		rst => rst_in,
 		paddle_left => paddle_left_in,
-		paddle_right => paddle_right_in,
+		paddle_right_in => paddle_right_in,
 		counter => counter_in,
 		score_left => score_left_out,
 		score_right => score_right_out

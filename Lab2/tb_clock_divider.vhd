@@ -51,7 +51,7 @@ begin
 	-- This process creates a clock signal
 	clk_process: process
 	begin
-		clk in <= '0';
+		clk_in <= '0';
 		wait for clk_period/2;
 		clk_in <= '1';
 		wait for clk_period/2;

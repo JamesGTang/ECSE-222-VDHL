@@ -26,10 +26,10 @@ architecture behaviour of tb_counter is
 	
 	-- Inputs
 	signal clk_in	: std_logic;
-	signal rst_in	: std_logic;		
+	signal rst_in	:std_logic;		
 
 	-- Outputs
-	signal count_out	: std_logic_vector (3 downto 0);
+	signal count_out	: std_vector (3 downto 0);
 
 	-- Helpers
 	constant clk_period : time := 10 ns;
